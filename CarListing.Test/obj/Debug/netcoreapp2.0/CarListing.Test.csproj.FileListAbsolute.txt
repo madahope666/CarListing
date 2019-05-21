@@ -1,0 +1,17 @@
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\bin\Debug\netcoreapp2.0\CarListing.Test.deps.json
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\bin\Debug\netcoreapp2.0\CarListing.Test.runtimeconfig.json
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\bin\Debug\netcoreapp2.0\CarListing.Test.runtimeconfig.dev.json
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\bin\Debug\netcoreapp2.0\CarListing.Test.dll
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\obj\Debug\netcoreapp2.0\CarListing.Test.csprojResolveAssemblyReference.cache
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\obj\Debug\netcoreapp2.0\CarListing.Test.csproj.CoreCompileInputs.cache
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\obj\Debug\netcoreapp2.0\CarListing.Test.AssemblyInfoInputs.cache
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\obj\Debug\netcoreapp2.0\CarListing.Test.AssemblyInfo.cs
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\bin\Debug\netcoreapp2.0\CarListing.dll
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\bin\Debug\netcoreapp2.0\CarListing.pdb
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\obj\Debug\netcoreapp2.0\CarListing.Test.csproj.CopyComplete
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\bin\Debug\netcoreapp2.0\CarListing.Test.pdb
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\obj\Debug\netcoreapp2.0\CarListing.Test.dll
+C:\Users\one-mp\Documents\CarListing\CarListing.Test\obj\Debug\netcoreapp2.0\CarListing.Test.pdb

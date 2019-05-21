@@ -1,0 +1,17 @@
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\bin\Debug\netcoreapp2.0\CarListing.UnitTest.deps.json
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\bin\Debug\netcoreapp2.0\CarListing.UnitTest.runtimeconfig.json
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\bin\Debug\netcoreapp2.0\CarListing.UnitTest.runtimeconfig.dev.json
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\bin\Debug\netcoreapp2.0\CarListing.UnitTest.dll
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\bin\Debug\netcoreapp2.0\CarListing.dll
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\bin\Debug\netcoreapp2.0\CarListing.pdb
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\obj\Debug\netcoreapp2.0\CarListing.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\obj\Debug\netcoreapp2.0\CarListing.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\obj\Debug\netcoreapp2.0\CarListing.UnitTest.AssemblyInfoInputs.cache
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\obj\Debug\netcoreapp2.0\CarListing.UnitTest.AssemblyInfo.cs
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\obj\Debug\netcoreapp2.0\CarListing.UnitTest.csproj.CopyComplete
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\bin\Debug\netcoreapp2.0\CarListing.UnitTest.pdb
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\obj\Debug\netcoreapp2.0\CarListing.UnitTest.dll
+C:\Users\one-mp\Documents\CarListing\backend\CarListing.UnitTest\obj\Debug\netcoreapp2.0\CarListing.UnitTest.pdb

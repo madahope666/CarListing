@@ -1,0 +1,11 @@
+C:\Users\one-mp\Documents\CarListing\backend\CarListing\bin\Debug\netcoreapp2.0\CarListing.deps.json
+C:\Users\one-mp\Documents\CarListing\backend\CarListing\bin\Debug\netcoreapp2.0\CarListing.runtimeconfig.json
+C:\Users\one-mp\Documents\CarListing\backend\CarListing\bin\Debug\netcoreapp2.0\CarListing.runtimeconfig.dev.json
+C:\Users\one-mp\Documents\CarListing\backend\CarListing\bin\Debug\netcoreapp2.0\CarListing.dll
+C:\Users\one-mp\Documents\CarListing\backend\CarListing\obj\Debug\netcoreapp2.0\CarListing.csprojResolveAssemblyReference.cache
+C:\Users\one-mp\Documents\CarListing\backend\CarListing\obj\Debug\netcoreapp2.0\CarListing.csproj.CoreCompileInputs.cache
+C:\Users\one-mp\Documents\CarListing\backend\CarListing\obj\Debug\netcoreapp2.0\CarListing.AssemblyInfoInputs.cache
+C:\Users\one-mp\Documents\CarListing\backend\CarListing\obj\Debug\netcoreapp2.0\CarListing.AssemblyInfo.cs
+C:\Users\one-mp\Documents\CarListing\backend\CarListing\bin\Debug\netcoreapp2.0\CarListing.pdb
+C:\Users\one-mp\Documents\CarListing\backend\CarListing\obj\Debug\netcoreapp2.0\CarListing.dll
+C:\Users\one-mp\Documents\CarListing\backend\CarListing\obj\Debug\netcoreapp2.0\CarListing.pdb
