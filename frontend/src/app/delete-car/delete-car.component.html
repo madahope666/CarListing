@@ -1,0 +1,18 @@
+<mat-card>
+  <mat-card-header>
+    <mat-card-title>Are you sure you want to delete this entry?</mat-card-title>
+  </mat-card-header>
+  <mat-card-content>
+    <mat-list>
+      <mat-list-item><b>Brand:&nbsp; </b> {{car.brand}}</mat-list-item>
+      <mat-divider></mat-divider>
+      <mat-list-item><b>Model/Year:&nbsp; </b> {{car.modelYear}}</mat-list-item>
+      <mat-divider></mat-divider>
+    </mat-list>
+  </mat-card-content>
+  <mat-card-actions>
+      <button mat-flat-button (click)="cancel()">Cancel</button>
+      <span class="width-spacer"></span>
+      <button mat-flat-button (click)="confirmDelete()" color="primary">Confirm</button>
+  </mat-card-actions>
+</mat-card>

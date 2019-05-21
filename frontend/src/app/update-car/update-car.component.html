@@ -1,0 +1,15 @@
+<h2 mat-dialog-title>Update Car</h2>
+<mat-dialog-content [formGroup]="form">
+  <mat-form-field class="field-new-entry">
+    <input matInput placeholder="Brand" formControlName="brand">
+  </mat-form-field>
+  <br />
+  <mat-form-field class="field-new-entry">
+    <input matInput placeholder="Model/Year" formControlName="modelYear">
+  </mat-form-field>
+</mat-dialog-content>
+<mat-dialog-actions>
+  <button mat-flat-button (click)="cancel()" color="warn">Cancel</button>
+  <span class="width-spacer"></span>
+  <button mat-flat-button (click)="save()" color="primary">Save</button>
+</mat-dialog-actions>

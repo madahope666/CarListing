@@ -1,0 +1,24 @@
+<mat-card>
+  <table mat-table [dataSource]="carList">
+
+    <ng-container matColumnDef="Brand">
+      <th mat-header-cell *matHeaderCellDef>Brand</th>
+      <td mat-cell *matCellDef="let car"> {{car.brand}} </td>
+    </ng-container>
+    <ng-container matColumnDef="ModelYear">
+      <th mat-header-cell *matHeaderCellDef>Model/Year</th>
+      <td mat-cell *matCellDef="let car"> {{car.modelYear}} </td>
+    </ng-container>
+    <ng-container matColumnDef="Actions">
+      <th mat-header-cell *matHeaderCellDef>Actions</th>
+      <td mat-cell *matCellDef="let car">
+        <button (click)="updateCar(car)" mat-flat-button color="accent" style="margin-right: 10px;"><b>Edit</b></button>
+        <button [routerLink]="['/delete-car', car.carid]" mat-flat-button color="warn"><b>Delete</b></button>
+      </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+
+  </table>
+</mat-card>

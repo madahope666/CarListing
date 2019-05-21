@@ -1,0 +1,16 @@
+<mat-card>
+  <h1>Add Car</h1>
+  <form [formGroup]="entryForm" (ngSubmit)="onSubmit()  ">
+    <mat-form-field class="field-new-entry">
+      <input matInput placeholder="Brand" formControlName="brand">
+    </mat-form-field>
+    <mat-form-field class="field-new-entry">
+      <input matInput placeholder="Model/Year" formControlName="modelYear">
+    </mat-form-field>
+    <div>
+      <button mat-flat-button color="warn" routerLink="/">Cancel</button>
+      <span class="width-spacer"></span>
+      <button mat-flat-button [disabled]="!entryForm.valid" color="primary">Add Car</button>
+    </div>
+  </form>
+</mat-card>
